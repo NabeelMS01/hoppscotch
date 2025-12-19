@@ -24,7 +24,7 @@
     "do-test": "pnpm run test"
   },
   "dependencies": {
-    "@nestjs-modules/mailer": "^1.8.1",
+    "@nestjs-modules/mailer": "^2.0.0",
     "@nestjs/apollo": "^10.1.6",
     "@nestjs/common": "^9.2.1",
     "@nestjs/core": "^9.2.1",

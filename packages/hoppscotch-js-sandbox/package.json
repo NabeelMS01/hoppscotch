@@ -42,7 +42,7 @@
   "dependencies": {
     "@hoppscotch/data": "workspace:^",
     "fp-ts": "^2.11.10",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "quickjs-emscripten": "^0.15.0",
     "tsup": "^5.12.5"
   },

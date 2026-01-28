@@ -39,7 +39,7 @@
   "dependencies": {
     "fp-ts": "^2.11.10",
     "io-ts": "^2.2.16",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "parser-ts": "^0.6.16"
   }
 }

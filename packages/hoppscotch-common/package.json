@@ -74,7 +74,7 @@
     "nprogress": "^0.2.0",
     "paho-mqtt": "^1.1.0",
     "path": "^0.12.7",
-    "postman-collection": "^4.2.0",
+    "postman-collection": "^5.2.1",
     "process": "^0.11.10",
     "qs": "^6.11.2",
     "rxjs": "^7.8.1",
